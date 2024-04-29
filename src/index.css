@@ -4,6 +4,7 @@
     ". title ."
     ". game controls";
   grid-template-columns: repeat(3, 1fr);
+  background: linear-gradient(to bottom right, #f0f8ff, #6bb7e4); 
 }
 
 h1 {
